@@ -293,6 +293,10 @@ class Slugify implements SlugifyInterface
         'ğ' => 'g',
         'ı' => 'i',
         'ş' => 's',
+        'ü' => 'u',
+        'Ü' => 'U',
+        'Ö' => 'O',
+        'ö' => 'o',
 
         // Latvian
         'Ā' => 'A',
